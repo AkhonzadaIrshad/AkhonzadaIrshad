@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Irshad Ahmed Akhonzada</h1>
-<h3 align="center">A passionate Software Development Consultant from Pakistan</h3>
+<h1 align="center">Hi 👋, I'm Irshad Ahmed</h1>
+<h3 align="center">A passionate Solution Architect</h3>
 
 - 💬 Ask me about **Technology**
 
